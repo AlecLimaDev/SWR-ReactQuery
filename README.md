@@ -21,3 +21,6 @@ No fim do dia...
 
 E entre SWR e React-Query, eu particularmente prefiro SWR por ter uma interface mais minimalista e simples.
 
+
+
+![IMAGEM](public/swr-reactQuery.png)
